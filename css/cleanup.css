@@ -9,3 +9,8 @@
     background: url(../images/tag-2.png) no-repeat;
 }
 
+#wall #tag-3.slick {
+    z-index: 5;
+    display: none;
+    background: url(../images/tag-3.png) no-repeat;
+}
