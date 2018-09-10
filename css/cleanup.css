@@ -14,3 +14,7 @@
     display: none;
     background: url(../images/tag-3.png) no-repeat;
 }
+
+div {
+    display: none;
+}
