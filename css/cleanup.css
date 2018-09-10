@@ -4,7 +4,9 @@
 }
 
 #wall #tag-2 {
-  display: none;
+    z-index: 6;
+    display: none;
+    background: url(../images/tag-2.png) no-repeat;
 }
 
 #tag-3 .slick wicked {
